@@ -30,6 +30,6 @@ npm run build
 ## 資料夾說明
 
 - assets # 靜態資源放置處
-- scripts # 工具與自訂 js 檔案放置處
+- scripts/api # js 檔案放置處
+- scripts/pages # 頁面 js 檔案放置處
 - types # TypeScript 型別放置處
-- main.ts # 核心原始碼
