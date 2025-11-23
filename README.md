@@ -1,4 +1,4 @@
-﻿# js-woworoom-ec-2022-vite
+﻿# js-woworoom-ec-2025 ts
 
 **[前台 DEMO](https://amanoizumi.github.io/woworoom-ts/)**
 
